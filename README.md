@@ -4,6 +4,6 @@
 
 **Project Type** - Classification
 
-**Contribution **- Individual
+**Contribution**- Individual
 
 **Team Member 1** - Mansi Kaushik
