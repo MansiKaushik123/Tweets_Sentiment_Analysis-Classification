@@ -45,9 +45,7 @@ Our analysis aimed to understand people's feelings by examining their tweets on 
 
 5.Multinomial Navies Bayes & Bernoulli Navies Bayes(Count Vector and TF ID Vectorization techniques).
 
-6.Random Forest(Count Vector and TF ID Vectorization techniques).
-
-7.Stochastic Gradient Descent(Count Vector and TF ID Vectorization techniques).
+6.Stochastic Gradient Descent(Count Vector and TF ID Vectorization techniques).
 
 **Problem Statement-**
 
